@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaulsthub" alt="raaulsthub" /></a> </p>
 
-- 🔭 I’m currently working on [String Similarity, Robotics Deep Learning](https://github.com/Raaulsthub/productClustering)
-
-- 🌱 I’m currently learning **Deep Learning, Deep Reinforcement Learning**
+- 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning**
 
 - 💬 Ask me about **String Similarity, Unity, AI**
 
