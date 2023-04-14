@@ -1,5 +1,5 @@
   <h1 align="center">Raul Steinmetz</h1>
-<h3 align="center">AI and Computer Graphics passionate from Brazil/Italy</h3>
+<h3 align="center">Deep Learning Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaulsthub&label=Profile%20views&color=0e75b6&style=flat" alt="raaulsthub" /> </p>
 
