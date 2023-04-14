@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaulsthub" alt="raaulsthub" /></a> </p>
 
-- 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning**
+- 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning, Computer Vision**
 
-- 💬 Ask me about **String Similarity, Unity, AI**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Image Processing**
 
 - 📫 How to reach me **rsteinmetz@inf.ufsm.br**
 
