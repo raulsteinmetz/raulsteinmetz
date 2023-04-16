@@ -18,4 +18,11 @@
 - [Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction](https://ieeexplore.ieee.org/abstract/document/9996025?casa_token=PMIlBglP9KAAAAAA:m0RDyNTj8iErxlCjMrFaOgS37HQutG3nzHHODWagYLPrpYjj6NpnP2nuzxxEoj34nuk2sHt7OV4W)
 - [Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots](https://ui.adsabs.harvard.edu/abs/2023arXiv230111173D/abstract)
 - [Um Estudo Sobre a Falta de Padronização na Descrição de Produtos em Notas Fiscais Eletrônicas](https://sol.sbc.org.br/index.php/erbd/article/view/21397)
+  
+  <ul>
+  <li><a href="[https://www.google.com](https://ieeexplore.ieee.org/abstract/document/9996025?casa_token=PMIlBglP9KAAAAAA:m0RDyNTj8iErxlCjMrFaOgS37HQutG3nzHHODWagYLPrpYjj6NpnP2nuzxxEoj34nuk2sHt7OV4W)">Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction</a></li>
+  <li><a href="[https://www.wikipedia.org](https://ui.adsabs.harvard.edu/abs/2023arXiv230111173D/abstract)">Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots</a></li>
+  <li><a href="[https://github.com](https://sol.sbc.org.br/index.php/erbd/article/view/21397)">Um Estudo Sobre a Falta de Padronização na Descrição de Produtos em Notas Fiscais Eletrônicas</a></li>
+</ul>
+
 
