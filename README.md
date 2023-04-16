@@ -1,10 +1,6 @@
   <h1 align="center">Raul Steinmetz</h1>
 <h3 align="center">Deep Learning Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaulsthub&label=Profile%20views&color=0e75b6&style=flat" alt="raaulsthub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaulsthub" alt="raaulsthub" /></a> </p>
-
 - 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning, Computer Vision**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Image Processing**
