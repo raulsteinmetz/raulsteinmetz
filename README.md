@@ -1,7 +1,9 @@
   <h1 align="center">Raul Steinmetz</h1>
 <h3 align="center">Deep Learning Researcher</h3>
 
-- [CV](https://raul-steinmetz-cv.onrender.com/)
+- [Curriculum Vitae](https://raul-steinmetz-cv.onrender.com/)
+
+- Maintainer of [ufsMAP](https://raaulsthub.github.io/ufsm-map-front-end-deploy/)
 
 - 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning, Computer Vision**
 
