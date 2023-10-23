@@ -1,6 +1,8 @@
   <h1 align="center">Raul Steinmetz</h1>
 <h3 align="center">Deep Learning Researcher</h3>
 
+- [CV](https://raul-steinmetz-cv.onrender.com/)
+
 - 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning, Computer Vision**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Image Processing**
