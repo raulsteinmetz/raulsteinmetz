@@ -3,7 +3,7 @@
 
 - [Curriculum Vitae](https://raul-steinmetz-cv.onrender.com/)
 
-- Maintainer of [ufsMAP](https://raaulsthub.github.io/ufsm-map-front-end-deploy/)
+- Maintainer of [ufsm-map](https://ufsm-map.onrender.com/)
 
 - 🌱 I’m currently learning and working with **Deep Learning, Deep Reinforcement Learning, Computer Vision**
 
