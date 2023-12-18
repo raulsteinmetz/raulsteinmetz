@@ -21,7 +21,7 @@
 <ul>
   <li><a href="https://link.springer.com/article/10.1007/s10846-023-01991-3"> Jubileo: An Immersive Simulation Framework for Social Robot Design </a></li>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9996025?casa_token=PMIlBglP9KAAAAAA:m0RDyNTj8iErxlCjMrFaOgS37HQutG3nzHHODWagYLPrpYjj6NpnP2nuzxxEoj34nuk2sHt7OV4W">Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction</a></li>
-  <li><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230111173D/abstract">Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-35507-3_16">Double Deep Reinforcement Learning Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots</a></li>
   <li><a href="https://sol.sbc.org.br/index.php/erbd/article/view/21397">Um Estudo Sobre a Falta de Padronização na Descrição de Produtos em Notas Fiscais Eletrônicas</a></li>
 </ul>
 
