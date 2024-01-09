@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm Raul Steinmetz, a passionate Deep Learning Res
 
 - **Jubileo:** An Immersive Simulation Framework for Social Robot Design. [Accessible here](https://link.springer.com/article/10.1007/s10846-023-01991-3)
 - **Jubileo:** Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction. [Accessible here](https://ieeexplore.ieee.org/abstract/document/9996025?casa_token=PMIlBglP9KAAAAAA:m0RDyNTj8iErxlCjMrFaOgS37HQutG3nzHHODWagYLPrpYjj6NpnP2nuzxxEoj34nuk2sHt7OV4W)
+- **Delta robot control by learning systems**: Harnessing the power of deep reinforcement learning algorithms. [Pre-print](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs232795?resultNumber=2&totalResults=28&start=0&q=gamarra&resultsPageSize=10&rows=10)
 - **Double Deep Reinforcement Learning** Techniques for Low Dimensional Sensing Mapless Navigation of Terrestrial Mobile Robots. [Accessible here](https://link.springer.com/chapter/10.1007/978-3-031-35507-3_16)
 - **Product Description Standards:** A Study on the Lack of Standardization in Electronic Invoice Product Descriptions. [Accessible here](https://sol.sbc.org.br/index.php/erbd/article/view/21397)
 
