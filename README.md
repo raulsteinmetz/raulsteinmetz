@@ -2,7 +2,7 @@
 
 ### Deep Learning Researcher
 
-Welcome to my GitHub profile! I'm Raul Steinmetz, a Deep Learning Researcher with focus on Deep Reinforcement Learning, Human-Robot Interaction and Computer Vision.
+Welcome to my GitHub profile! I'm Raul Steinmetz, a Deep Learning Researcher with focus on Reinforcement Learning, Human-Robot Interaction and Computer Vision.
 
 #### About Me
 
