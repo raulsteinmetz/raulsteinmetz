@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Raul
+
+I'm a student at the Universidade Federal de Santa Maria (Brazil)
+
+I'm currently researching on Deep Reinforcement Learning for Autonomous Robot Control
+
+Check my research and cv at [rsteinmetz.com](rsteinmetz.com)
 
 <!--
 **raulsteinmetz/raulsteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
